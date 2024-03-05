@@ -635,3 +635,29 @@ table{
 .login-main .register-form{
 	padding: 50px 0;
 }
+.yard-custom li{
+	display: block;
+	margin-bottom: 30px;
+}
+.yard-custom p{
+	margin-bottom: 5px;
+}
+.yard-custom img, .yard-custom iframe{
+	width: 100%;
+	margin-bottom: 10px;
+	height: auto;
+}
+.yard-custom h2{
+	color: #ff0000;
+	font-size: 20px;
+}
+.yard-custom iframe{
+	min-height: 200px;
+	object-fit: cover;
+}
+.team-custom{
+	overflow-x: auto;
+}
+.team-custom table{
+	white-space: nowrap;
+}
